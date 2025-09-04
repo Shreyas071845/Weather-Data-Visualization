@@ -65,7 +65,9 @@ This dashboard can be used by:
 
 ---
 
-## 📝 Author  
+## 🖼️ Dashboard Priview 
 
-Developed by **[Your Name]**  
-Feel free to connect with me on [LinkedIn/GitHub/etc.]  
+Here’s a preview of the Weather Dashboard built in Power BI:
+
+![Weather Dashboard Screenshot](Snapshot_of_Dashboard.png)
+ 
